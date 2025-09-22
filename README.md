@@ -1,1 +1,1 @@
--CLick the [Link](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) to view project
+-CLick the [Link](https://magical-malasada-6788d5.netlify.app/) to view project
