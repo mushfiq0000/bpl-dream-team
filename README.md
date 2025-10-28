@@ -35,8 +35,3 @@ The application is developed using modern web technologies and focuses on a clea
 | Programming Language  | JavaScript (ES6)                  |
 | Build / Deployment    | Static site hosted on Netlify     |
 | Version Control       | Git & GitHub                      |
-
----
-
-## 📂 Folder Structure
-
